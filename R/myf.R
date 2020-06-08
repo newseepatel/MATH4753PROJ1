@@ -1,6 +1,6 @@
 #' Square Function
 #'
-#' Takes a vector and returns a vector of squared components
+#' Takes a vector and returns a vector of squared components in the form of a vector object
 #'
 #' @param x
 #'
